@@ -2,6 +2,8 @@
 
 Monitoring temps reel du reseau SNCF Ile-de-France (IDFM) avec calcul de KPIs de performance.
 
+## Documentation du projet ##
+La documentation du projet est disponible dans Presentation_sncf_equipe34.pdf
 ## Structure du projet
 
 ```
